@@ -1,0 +1,22 @@
+From 0639027b780865f0052e986f24b4478b37cf185b Mon Sep 17 00:00:00 2001
+From: Paul <pschroe08932@googlemail.com>
+Date: Sun, 22 Mar 2020 13:36:37 +0100
+Subject: [PATCH] infos deinstallieren in install.txt
+
+---
+ INSTALL.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/INSTALL.txt b/INSTALL.txt
+index e8c911f..8e746ad 100644
+--- a/INSTALL.txt
++++ b/INSTALL.txt
+@@ -2,3 +2,5 @@ Zum installieren der Haskell Plattform unter Debian führen Sie folgendes
+ Kommando aus:
+ 
+ > aptitude install haskell-platform
++
++Zum Deinstallieren führen sie folgendes kommando aus: ...
+-- 
+2.20.1
+
